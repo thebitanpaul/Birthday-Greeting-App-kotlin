@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    android:orientation="vertical">
+
+
+   <VideoView
+       android:id="@+id/videoView"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       app:layout_constraintBottom_toBottomOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent">
+
+   </VideoView>
+
+   <VideoView
+       android:id="@+id/videoView2"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/newgreeting"
+       android:layout_alignParentStart="true"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentEnd="true"
+
+
+       android:layout_alignParentRight="true"
+       android:layout_alignParentBottom="true"
+       android:layout_marginStart="0dp"
+       android:layout_marginLeft="0dp"
+       android:layout_marginTop="-335dp"
+       android:layout_marginEnd="0dp"
+       android:layout_marginRight="0dp"
+       android:layout_marginBottom="0dp"
+       app:layout_constraintBottom_toBottomOf="@+id/newgreeting"
+       app:layout_constraintEnd_toEndOf="@+id/newgreeting"
+       app:layout_constraintStart_toStartOf="@+id/newgreeting"
+       app:layout_constraintTop_toTopOf="@+id/newgreeting" />
+
+   <TextView
+       android:id="@+id/newgreeting"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_alignParentStart="true"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentTop="true"
+       android:layout_alignParentEnd="true"
+       android:layout_alignParentRight="true"
+       android:layout_alignParentBottom="true"
+       android:layout_marginStart="0dp"
+       android:layout_marginLeft="0dp"
+       android:layout_marginTop="275dp"
+       android:layout_marginEnd="0dp"
+       android:layout_marginRight="0dp"
+       android:layout_marginBottom="356dp"
+       android:fontFamily="cursive"
+       android:gravity="center_horizontal"
+       android:padding="10dp"
+       android:text="TextView"
+       android:textAlignment="center"
+       android:textColor="@color/teal_700"
+       android:textSize="40sp"
+       android:textStyle="bold"
+       app:layout_constraintBottom_toBottomOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintHorizontal_bias="0.498"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent" />
+
+
+</RelativeLayout>
