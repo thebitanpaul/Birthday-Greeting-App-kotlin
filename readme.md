@@ -1,5 +1,5 @@
 
-# BirthdayGreeting
+# BirthdayGreeting App
 
 This is a beginner friendly app. A beginner app developer can learn about usage of imageView, videoView, intent, Toast and their corrsponding kotlin code.
 
