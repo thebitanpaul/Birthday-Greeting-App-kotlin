@@ -22,6 +22,8 @@ class MainActivity2 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(BirthdaygreetR.layout.activity_main2)
 
+//First Video Playback
+
         val videoPath = "android.resource://$packageName/${BirthdaygreetR.raw.birthdayvideo2}"
         val uri = Uri.parse(videoPath)
         videoView.setVideoURI(uri)
@@ -39,7 +41,9 @@ class MainActivity2 : AppCompatActivity() {
         videoView.setOnPreparedListener { mp->
             videoView.start()
 
+
         }
+//Second Video Playback
 
         val videoPath2 = "android.resource://$packageName/${BirthdaygreetR.raw.birthdayvideo}"
         val uri2 = Uri.parse(videoPath2)
@@ -63,7 +67,7 @@ class MainActivity2 : AppCompatActivity() {
         val name = intent.getStringExtra("name")
         newgreeting.text = "May you have all the love your heart can hold, " +
                 "all the happiness a day can bring, and all the blessings a life can unfold. " +
-                "Happy birthday!\n $name!"
+                "Happy birthday : \n $name!"
 
     }
 

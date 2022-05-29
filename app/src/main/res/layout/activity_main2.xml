@@ -13,10 +13,15 @@
        android:id="@+id/videoView"
        android:layout_width="match_parent"
        android:layout_height="match_parent"
-       app:layout_constraintBottom_toBottomOf="parent"
-       app:layout_constraintEnd_toEndOf="parent"
-       app:layout_constraintStart_toStartOf="parent"
-       app:layout_constraintTop_toTopOf="parent">
+
+       android:layout_alignBottom="@+id/newgreeting"
+
+       android:layout_alignParentStart="true"
+       android:layout_alignParentEnd="true"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:layout_alignParentTop="true"
+       >
 
    </VideoView>
 
@@ -24,54 +29,50 @@
        android:id="@+id/videoView2"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:layout_below="@+id/newgreeting"
+
+       android:layout_below="@+id/videoView"
+
        android:layout_alignParentStart="true"
        android:layout_alignParentLeft="true"
        android:layout_alignParentEnd="true"
-
-
        android:layout_alignParentRight="true"
        android:layout_alignParentBottom="true"
-       android:layout_marginStart="0dp"
-       android:layout_marginLeft="0dp"
-       android:layout_marginTop="-335dp"
-       android:layout_marginEnd="0dp"
-       android:layout_marginRight="0dp"
-       android:layout_marginBottom="0dp"
-       app:layout_constraintBottom_toBottomOf="@+id/newgreeting"
-       app:layout_constraintEnd_toEndOf="@+id/newgreeting"
-       app:layout_constraintStart_toStartOf="@+id/newgreeting"
-       app:layout_constraintTop_toTopOf="@+id/newgreeting" />
+
+
+       android:layout_marginTop="25dp"
+
+       />
+
 
    <TextView
        android:id="@+id/newgreeting"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
+
        android:layout_alignParentStart="true"
        android:layout_alignParentLeft="true"
        android:layout_alignParentTop="true"
        android:layout_alignParentEnd="true"
        android:layout_alignParentRight="true"
        android:layout_alignParentBottom="true"
-       android:layout_marginStart="0dp"
-       android:layout_marginLeft="0dp"
-       android:layout_marginTop="275dp"
-       android:layout_marginEnd="0dp"
-       android:layout_marginRight="0dp"
+
+       android:layout_marginTop="100dp"
        android:layout_marginBottom="356dp"
+
        android:fontFamily="cursive"
-       android:gravity="center_horizontal"
+       android:gravity="center"
        android:padding="10dp"
        android:text="TextView"
        android:textAlignment="center"
-       android:textColor="@color/teal_700"
-       android:textSize="40sp"
+       android:textColor="#663399"
+       android:textSize="30sp"
        android:textStyle="bold"
-       app:layout_constraintBottom_toBottomOf="parent"
+
+       app:layout_constraintBottom_toBottomOf="@id/videoView"
        app:layout_constraintEnd_toEndOf="parent"
-       app:layout_constraintHorizontal_bias="0.498"
        app:layout_constraintStart_toStartOf="parent"
-       app:layout_constraintTop_toTopOf="parent" />
+       app:layout_constraintTop_toTopOf="@id/videoView2"
+       />
 
 
 </RelativeLayout>
