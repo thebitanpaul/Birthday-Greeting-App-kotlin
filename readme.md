@@ -6,7 +6,7 @@ This is a beginner friendly app. A beginner app developer can learn about usage 
 
 ## Demo
 
-Here you can find the preview of the app.
+Here you can find the preview of the app. Please turn on the sound of the video.
 
 https://user-images.githubusercontent.com/99794785/170855517-18493425-dcdd-44b4-9976-1b49f7e05c1a.mp4
 ## Screenshots
