@@ -1,30 +1,31 @@
 
-# BirthdayGreeting App
+# Face Mask Detector
 
-This is a beginner friendly app. A beginner app developer can learn about usage of imageView, videoView, intent, Toast and their corrsponding kotlin code.
+A heart-melting birthday wishing app that send an emotional message to our beloved one. It's eye-candy UI makes it catchy and sleek video playback makes it even more attractive for children.
 
-
+## Tech Used
+Android Studio, Kotlin, VS code, GitHub
 ## Demo
 
 Here you can find the preview of the app. Please turn on the sound of the video.
 
-https://user-images.githubusercontent.com/99794785/170855517-18493425-dcdd-44b4-9976-1b49f7e05c1a.mp4
+https://user-images.githubusercontent.com/99794785/170952290-f64495cb-eb70-4b0f-9a89-afdd9dc4d096.mp4
+
+https://user-images.githubusercontent.com/99794785/170952380-64914ae5-66f2-4e47-b3f0-19eb552d4aee.mp4
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/99794785/170855538-dadf115f-f508-4a05-a2d1-36e8208c2496.png)
+![App Screenshot](![Screenshot 2022-05-30 at 2 05 39 PM](https://user-images.githubusercontent.com/99794785/170952633-2ac659cf-e23c-4d16-9020-6e994f340a45.png)
+
+![App Screenshot](![Screenshot 2022-05-30 at 2 05 53 PM](https://user-images.githubusercontent.com/99794785/170952674-86940771-55db-4439-954d-dd7125763a19.png)
 
 
 ## Lessons Learned
 
-Learned about Intent, Toast, imageView, videoView, Relative Layout.
+Learned about TensorFlow (2.9.0), CNN, Python, Google Collab, Jupiter Notebook, GitHub
 
-Firstly my textView was chaning in different phones(screens with different Aspect Ratio).
-Then I've learned about (android:gravity="center"), which fixed the error. Now the textView is properly visible in every kind of phone screens.
-
+Learned how to acess system camera usimg python.
 ## 🚀 About Me
 I am a AI and Machine Learning Enthusiast & growing Android Developer (kotlin). Both the fields, Machine Learning and Android Development, fascinates me a lot. And I also have worked on Azure Cloud Computing platform to deploy machine learning models.
-
-
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thebitanpaul)
