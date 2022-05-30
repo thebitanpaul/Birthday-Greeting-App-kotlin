@@ -17,9 +17,12 @@ https://user-images.githubusercontent.com/99794785/170954159-af21cb21-af32-45e7-
 
 ## Lessons Learned
 
-Learned about TensorFlow (2.9.0), CNN, Python, Google Collab, Jupiter Notebook, GitHub
+Learned how to use intent, toast, videoView, textView, Relative Layout.
 
-Learned how to acess system camera usimg python.
+Firstly the position of the textView was changing in different phone screens.
+Then I changed the Gravity to "center". Then the bug got resolved.
+
+
 ## 🚀 About Me
 I am a AI and Machine Learning Enthusiast & growing Android Developer (kotlin). Both the fields, Machine Learning and Android Development, fascinates me a lot. And I also have worked on Azure Cloud Computing platform to deploy machine learning models.
 ## 🔗 Links
