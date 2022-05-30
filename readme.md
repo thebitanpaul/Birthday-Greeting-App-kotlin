@@ -9,14 +9,10 @@ Android Studio, Kotlin, VS code, GitHub
 
 Here you can find the preview of the app. Please turn on the sound of the video.
 
-https://user-images.githubusercontent.com/99794785/170952290-f64495cb-eb70-4b0f-9a89-afdd9dc4d096.mp4
-
-https://user-images.githubusercontent.com/99794785/170952380-64914ae5-66f2-4e47-b3f0-19eb552d4aee.mp4
+https://user-images.githubusercontent.com/99794785/170954159-af21cb21-af32-45e7-bf53-273282853926.mp4
 ## Screenshots
 
-![App Screenshot](![Screenshot 2022-05-30 at 2 05 39 PM](https://user-images.githubusercontent.com/99794785/170952633-2ac659cf-e23c-4d16-9020-6e994f340a45.png)
-
-![App Screenshot](![Screenshot 2022-05-30 at 2 05 53 PM](https://user-images.githubusercontent.com/99794785/170952674-86940771-55db-4439-954d-dd7125763a19.png)
+![App Screenshot](![Screenshot 2022-05-29 at 11 59 19 AM](https://user-images.githubusercontent.com/99794785/170954116-b9e6affb-d4d4-4232-89ea-0577d2e06d80.png))
 
 
 ## Lessons Learned
