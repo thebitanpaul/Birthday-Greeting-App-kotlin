@@ -22,8 +22,7 @@ Firstly my textView was chaning in different phones(screens with different Aspec
 Then I've learned about (android:gravity="center"), which fixed the error. Now the textView is properly visible in every kind of phone screens.
 
 ## 🚀 About Me
-I am a AI and Machine Learning Enthusiast & sort of Android Developer.  
-Pursuing B.tech in AIML (Chandigarh University) Bsc in Data Science (IIT-M)
+I am a AI and Machine Learning Enthusiast & growing Android Developer (kotlin). Both the fields, Machine Learning and Android Development, fascinates me a lot. And I also have worked on Azure Cloud Computing platform to deploy machine learning models.
 
 
 ## 🔗 Links
