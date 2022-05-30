@@ -1,5 +1,5 @@
 
-# Face Mask Detector
+# BirthDay Greeting APP
 
 A heart-melting birthday wishing app that send an emotional message to our beloved one. It's eye-candy UI makes it catchy and sleek video playback makes it even more attractive for children.
 
